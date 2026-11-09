@@ -1,0 +1,5 @@
+ls /dev/video*
+
+v4l2-ctl --list-devices
+
+watch -n 1 nvidia-smi

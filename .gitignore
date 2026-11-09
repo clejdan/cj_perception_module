@@ -1,3 +1,5 @@
 .vscode
 *.pt
 *yolo_install.txt
+*.json
+__pycache__
